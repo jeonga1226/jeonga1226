@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30)&height=250&section=header&text=JEONGA&nbspGITHUB!%20render&fontSize=90" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30)&height=250&section=header&text=JEONGA&nbspGITHUB!%20render&fontSize=90" />
+</div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">👍Platforms & Languages👍</p>
@@ -31,3 +33,9 @@
   <a href="https://www.instagram.com/__dnjawitm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__dnjawitm/"/></a>&nbsp
   <a href="mailto:shinja1226@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=shinja1226@gmail.com"/></a>
 </p>
+<br/>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonga1226&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeonga1226&show_icons=true">
+</div>
