@@ -16,8 +16,8 @@
 </p>
 <p align="center">🛠️Tools🛠️</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/xcode-147EFB?style=flat&logo=xcode&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Morpheus-004088?style=flat&logo=Morpheus&logoColor=white"/></a>&nbsp 
   <br>
@@ -29,8 +29,8 @@
 
 <p align="center">🪄SNS & Portfolio🪄</p>
 <p align="center">
-  <a href="https://"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://"/></a>&nbsp
-  <a href="https://www.instagram.com/__dnjawitm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__dnjawitm/"/></a>&nbsp
+  <a href="https://shinja-58.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://shinja-58.tistory.com"/></a>&nbsp
+  <a href="https://jeonga1226.github.io/portfolio2021/"><img src="https://img.shields.io/badge/portfolio-34A7C1?style=flat-square&logo=portfolio&logoColor=white&link=https://jeonga1226.github.io/portfolio2021"/></a>&nbsp
   <a href="mailto:shinja1226@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=shinja1226@gmail.com"/></a>
 </p>
 <br/>
